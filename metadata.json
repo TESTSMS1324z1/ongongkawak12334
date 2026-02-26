@@ -1,0 +1,5 @@
+{
+  "name": "DSE Economics",
+  "description": "An AI-powered Hong Kong DSE Economics question generator that creates MCQs, short questions, and data response questions with detailed marking schemes.",
+  "requestFramePermissions": []
+}
